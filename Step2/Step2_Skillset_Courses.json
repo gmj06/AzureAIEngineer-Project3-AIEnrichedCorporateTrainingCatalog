@@ -1,6 +1,6 @@
 {
-  "@odata.context": "https://aiengineer-proj3-cognitive-search.search.windows.net/$metadata#skillsets/$entity",
-  "@odata.etag": "\"0x8DA623525B16A4A\"",
+  "@odata.context": "https://aiengineer-proj3-corporate-training-catalog.search.windows.net/$metadata#skillsets/$entity",
+  "@odata.etag": "\"0x8DA66A11DB04216\"",
   "name": "azuretable-skillset",
   "description": "Skillset created from the portal. skillsetName: azuretable-skillset; contentField: description; enrichmentGranularity: document; knowledgeStoreStorageAccount: ;",
   "skills": [

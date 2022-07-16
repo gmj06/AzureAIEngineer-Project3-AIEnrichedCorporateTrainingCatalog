@@ -1,6 +1,6 @@
 {
-  "@odata.context": "https://aiengineer-proj3-cognitive-search.search.windows.net/$metadata#indexers/$entity",
-  "@odata.etag": "\"0x8DA62354DF555EB\"",
+  "@odata.context": "https://aiengineer-proj3-corporate-training-catalog.search.windows.net/$metadata#indexers/$entity",
+  "@odata.etag": "\"0x8DA66A11F9E333E\"",
   "name": "azuretable-indexer",
   "description": "",
   "dataSourceName": "courses",

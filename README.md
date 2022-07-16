@@ -1,1 +1,1 @@
-Fork this repository to complete the Building an AI Enriched Corporate Training Catalog Project
+This repository is for Udacity AI Engineer Nanodegree Program Project 3: Building an AI Enriched Corporate Training Catalog

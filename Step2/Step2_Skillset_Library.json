@@ -1,6 +1,6 @@
 {
-  "@odata.context": "https://aiengineer-proj3-cognitive-search.search.windows.net/$metadata#skillsets/$entity",
-  "@odata.etag": "\"0x8DA6494CB5CFD0A\"",
+  "@odata.context": "https://aiengineer-proj3-corporate-training-catalog.search.windows.net/$metadata#skillsets/$entity",
+  "@odata.etag": "\"0x8DA66A1A6D4C781\"",
   "name": "azureblob-skillset",
   "description": "Skillset created from the portal. skillsetName: azureblob-skillset; contentField: metadata_title; enrichmentGranularity: document; knowledgeStoreStorageAccount: ;",
   "skills": [
