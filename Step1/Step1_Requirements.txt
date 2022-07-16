@@ -1,0 +1,8 @@
+* Users can  search Course Data by keywords and phrases from descriptions and other fields
+* Users can  filter Course Data results based on relevant criteria such as course ratings or duration
+* Users can  see results from searches of Course Data the course instructors for their own internal training
+* Users can  facet Course Data by  level, product or role
+* Users can  sort Course Data search results by relevant fields
+* Users can  search the Curated Library for papers by keywords and phrases from Journal name, authors, and their associated institutions
+* Users can  search the Curated Library for papers by publication name, publisher, and publication date
+* Users can  see results from searches of Curated Library for papers with DOI (Digital Object Identifier) URL for the file
